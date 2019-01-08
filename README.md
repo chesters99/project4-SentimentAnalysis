@@ -1,4 +1,4 @@
-# project4-SentimentAnalysis
+# SentimentAnalysis
 
 ## Problem Statement / Objective
 The problem assigned was to predict the sentiment of three splits of IMDB movie reviews provided to an
